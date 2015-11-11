@@ -1,0 +1,30 @@
+width: 800
+height: 600
+linter: "mdast-lint"
+lint_options:
+  hard-break-spaces: false
+  heading-style: "atx"
+  no-missing-blank-lines: false
+  # maximum-line-length: false
+drawer:
+  responsive: false
+menu:
+  visible: true
+shortcuts:
+  "g g": "PageTop"
+  "shift+g": "PageBottom"
+  i: ""
+  m: ""
+  ctrl+q: "QuitApp"
+  ctrl+w: "QuitApp"
+file_ext:
+  markdown:
+    - "md"
+    - "markdown"
+    - "mkd"
+  html:
+    - "html"
+voice:
+  enabled: true
+  source: C:\Users\toshi\AppData\Roaming\npm\node_modules\shiba\build\voices\bow.mp3
+
