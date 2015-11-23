@@ -1,3 +1,10 @@
+<!--!
+{
+  'font': 'Ricty for Powerline:h40:cSHIFTJIS',
+  'colorscheme': 'Tomorrow-Night-Bright',
+}
+-->
+
 # title: {{_title_}}
 date: {{_date_}}  
 tags: {{_tags_}}
