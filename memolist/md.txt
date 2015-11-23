@@ -1,7 +1,7 @@
 <!--!
 {
   'font': 'Ricty for Powerline:h40:cSHIFTJIS',
-  'colorscheme': 'Tomorrow-Night',
+  'colorscheme': 'Tomorrow-Night-Bright',
 }
 -->
 
