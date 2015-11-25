@@ -1,3 +1,5 @@
+" NeoBundleで管理していないプラグインのコマンドを削除する
+
 " scrnmode.vim
 delcommand SM
 delcommand Revert
@@ -7,10 +9,4 @@ delcommand FullScreen
 delcommand NDensity
 delcommand WWidth
 delcommand HDensity
-
-" vim-startify
-delcommand SLoad
-delcommand SSave
-delcommand SDelete
-delcommand SClose
 
