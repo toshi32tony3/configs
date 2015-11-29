@@ -10,3 +10,8 @@ delcommand NDensity
 delcommand WWidth
 delcommand HDensity
 
+" GetLatestVimScript
+delcommand GLVS
+delcommand DoMatchParen
+delcommand NoMatchParen
+
